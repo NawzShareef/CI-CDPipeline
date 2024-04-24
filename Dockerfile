@@ -5,7 +5,7 @@ FROM openjdk:11-jre-slim
 WORKDIR /app
 
 # Copy the JAR file into the container at /app
-COPY target/CucumberProject-1.0-SNAPSHOT.jar
+COPY target/CucumberProject-1.0-SNAPSHOT.jar /app/CucumberProject-1.0-SNAPSHOT.jar
 
 # Specify the command to run your application
 CMD ["java", "-jar", "your-app.jar"]
