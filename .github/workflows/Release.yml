@@ -49,6 +49,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/DockerAccessToken:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/dockeraccesstoken:latest
 
 
