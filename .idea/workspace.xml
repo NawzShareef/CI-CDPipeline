@@ -9,8 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Updated in Keka_Steps.java">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/Release.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/Release.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
